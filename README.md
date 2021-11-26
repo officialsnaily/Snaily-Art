@@ -1,5 +1,5 @@
 # Snaily Art!
-<center><img src="https://cupido.teamsnaily.com/misc/welcometosnaily2.png" height="300px"></img>
+<center><a href="https://teamsnaily.com"><img src="https://cupido.teamsnaily.com/misc/welcometosnaily2.png" height="450px"></img></a>
 
 <h3><b>Your love and continued support mean a lot to us.❤️
 We have bundled all Snaily Art for you and will keep it categorized and up-to-date in this repository.</b></h3>
