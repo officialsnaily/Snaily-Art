@@ -6,7 +6,7 @@ We have bundled all Snaily Art for you and will keep it categorized and up-to-da
 <hr>
 <br>
 <h4>Check our website:</h4>
-<a href="https://teamsnaily.com"><img src="https://cupido.teamsnaily.com/misc/dedede.gif" height="150px"></img><img src="https://pngpress.com/wp-content/uploads/2020/08/uploads_cursor_cursor_PNG78.png" height="25px"></img></a>
+<a href="https://teamsnaily.com"><img src="https://cupido.teamsnaily.com/misc/dedede.gif" height="150px"></img><img src="[https://pngpress.com/wp-content/uploads/2020/08/uploads_cursor_cursor_PNG78.png](https://i.pinimg.com/originals/8b/d5/ac/8bd5aca74fd10a7e59393d4bd9fac165.png)" height="25px"></img></a>
 <hr><h4>Join our Discord:</h4>
 <a href="https://teamsnaily.com/discord"><img src="https://discord.com/assets/cb48d2a8d4991281d7a6a95d2f58195e.svg"></img></a>
 <br>
